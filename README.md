@@ -13,5 +13,5 @@ I am a computer science engineer and have experience in working in startup as te
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Quirino&layout=compact&theme=dracula)
 
-<img align='center' ![](https://visitor-badge.glitch.me/badge?page_id=Daniel-Quirino.Daniel-Quirino) />
+<span align="center"> ![](https://visitor-badge.glitch.me/badge?page_id=Daniel-Quirino.Daniel-Quirino) </span>
 
