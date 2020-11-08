@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+### Hi there <img src="https://raw.githubusercontent.com/Daniel-Quirino/Daniel-Quirino/master/wave.gif" width="30px">
 
 I am a computer science engineer and have experience in working in startup as technical Lead and Full stack developer. Interested in making life easier by creating utility tools. Fascinated about space...:
 
