@@ -11,5 +11,5 @@ I am a computer science engineer and have experience in working in startup as te
 
 ### Top Langs
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Quirino&hide=TeX&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Quirino&layout=compact&theme=dracula)
 
